@@ -1,2 +1,3 @@
-CS231N 자막 
-https://github.com/insurgent92/CS231N_17_KOR_SUB
+CS231N
+
+자막 (비젼눕님) https://github.com/insurgent92/CS231N_17_KOR_SUB
